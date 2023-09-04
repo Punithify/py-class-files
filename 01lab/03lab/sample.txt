@@ -1,0 +1,18 @@
+homepage
+
+login 
+
+challenges 
+
+profile page
+
+
+tech stack
+
+Next js 
+Bootstrap
+validation
+backend
+
+
+
